@@ -1,0 +1,23 @@
+{
+  "name": "immortal-managerw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "avconv": "^3.1.0",
+    "discord-xp": "^1.1.8",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.11.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "^0.0.4",
+    "opusscript": "^0.0.7",
+    "ytdl-core": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
